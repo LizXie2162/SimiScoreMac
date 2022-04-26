@@ -1,0 +1,19 @@
+---
+name:  simiscoremac
+title: Text Simialrity Scoring Mac
+menuGroup: SimiScoreMac
+version: '1.0.0'
+jas: '1.2'
+
+options:
+    - name: data
+      type: Data
+
+    - name: sotext
+      title: Source Text
+      type: Variable
+
+    - name: tatext
+      title: Target Text
+      type: Variables
+...

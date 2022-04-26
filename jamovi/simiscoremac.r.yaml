@@ -1,0 +1,11 @@
+---
+name:  simiscoremac
+title: Text Simialrity Scoring Mac
+jrs:   '1.1'
+
+items:
+    - name:  text
+      title: Text Simialrity Scoring Mac
+      type:  Preformatted
+
+...
